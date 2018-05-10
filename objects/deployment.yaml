@@ -13,4 +13,4 @@ spec:
       - name: aggregator-service
         image: eu.gcr.io/deploying-software-on-kubernetes/isodate-service:1.0
         ports:
-        - containerPort: 8081
+        - containerPort: 8888
